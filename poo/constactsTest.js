@@ -1,5 +1,5 @@
 const person = require("./person");
-const Contacts = require("./poo/constacts");
+const Contacts = require("./constacts");
 
 
 const contacts = new Contacts();
